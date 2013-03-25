@@ -1,2 +1,4 @@
-fly yo ships
-============
+Android arcade game, set in spaaaaaceeee
+========================================
+
+
